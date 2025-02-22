@@ -5,7 +5,7 @@ homepage: https://github.com/karantanwar/unique_identifier
 
 environment:
   sdk: ">=3.0.2 <4.0.0"
-  flutter: '>=3.3.0'
+  flutter: '>=3.2.4'
 
 dependencies:
   flutter:
